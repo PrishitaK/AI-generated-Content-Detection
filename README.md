@@ -7,7 +7,8 @@ I have made use of a feature based approach in order to detect AI-generated cont
 I have made use of Perplexity and Burstiness as the measures to identify AI-generated content.
 
 ## Perplexity
-It is a measure of how well a probability model predicts the next word in a sequence of words. It quantifies the uncertainty if a language model by calculating the likelihood of the model producing a given text. 
+It is a measure of how well a probability model predicts the next word in a sequence of words. It quantifies the uncertainty if a language model by calculating the likelihood of the model producing a given text.
+
 *Lower perplexity --> model is more confident or is less surprised --> likely to be AI generated*
 *Higher perplexity --> human written content*
 
