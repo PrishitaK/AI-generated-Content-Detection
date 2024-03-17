@@ -15,5 +15,7 @@ It is a measure of how well a probability model predicts the next word in a sequ
 
 ## Burstiness
 It refers to the tendency of certain words to appear in clusters or *'burts'* rather than being evenly distributed throughout a document. AI generated text can potentially have more predictability (less burstiness) since AI models tend to re-use certain words or phrases more often than a human would. 
+
 *Higher Burstiness --> Human written content*
+
 *Lower Burstiness --> likely to be AI-generated*
